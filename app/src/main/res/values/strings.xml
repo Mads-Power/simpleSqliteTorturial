@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveDataSqlite</string>
+    <string name="txtVPlayer" />
+    <string name="btnAdd">Add</string>
+    <string name="btnHighscore">Highscore</string>
+    <string name="edttxt" />
+</resources>
